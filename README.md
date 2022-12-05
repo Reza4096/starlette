@@ -20,3 +20,8 @@ pip install starlette
 ```bash
 pip install uvicorn
 ```
+
+## run
+```bash
+uvicorn example:app
+```
