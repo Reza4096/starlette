@@ -41,7 +41,7 @@ generic <code>app.state</code> attribute.</p>
 For example:
 
 ```python
-app.state.ADMIN_EMAIL = 'admin@example.org'
+app.state.ADMIN_EMAIL = 'reza4096@yahoo.com'
 ```
 
 ## Accessing the app instance
