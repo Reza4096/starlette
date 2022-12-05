@@ -33,3 +33,5 @@ routes = [
 ]
 
 app = Starlette(debug=True, routes=routes, on_startup=[startup])
+
+app.state.ADMIN_EMAIL = 'reza4096@yahoo.com'
