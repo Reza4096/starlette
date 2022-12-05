@@ -46,3 +46,8 @@ app.state.ADMIN_EMAIL = 'reza4096@yahoo.com'
 
 ## Accessing the app instance
 <p>Where a <code>request</code> is available (i.e. endpoints and middleware), the app is available on <code>request.app</code>.</p>
+
+## run
+```bash
+uvicorn application:app
+```
